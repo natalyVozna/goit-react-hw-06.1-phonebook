@@ -1,5 +1,3 @@
-import { useState, useEffect } from 'react';
-import { nanoid } from 'nanoid';
 import { Notify } from 'notiflix';
 import { Section } from '../Section/Section';
 import { FormContact } from '../FormContact/FormContact';
